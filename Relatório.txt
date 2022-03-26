@@ -1,0 +1,2 @@
+Problema Real: Criar um programa que retorne o dobro.
+O map percorre um determinado campo, uma determinada informação ou um array inteiro, é muito melhor do que fixar acessando indexador por indexador.
